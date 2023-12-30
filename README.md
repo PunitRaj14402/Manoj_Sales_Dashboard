@@ -1,1 +1,1 @@
-# Manoj_Sales_Dashboard
+This is a data analysis project using Power Bi.
